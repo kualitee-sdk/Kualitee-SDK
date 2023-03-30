@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**kualitee-sdk/Kualitee-SDK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kualitee/Kualitee-SDK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
